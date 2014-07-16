@@ -1,0 +1,32 @@
+.idea/
+out/
+*.swf
+
+*~
+*.DS_Store
+*.log
+*.cookie
+log
+*~
+
+# XCode noise
+*.swp
+*~.nib
+build/
+*.pbxuser
+*.perspective
+*.perspectivev3
+*.mode1v3
+*.mode2v3
+tmp
+
+# IDEA files
+.idea/
+*.iml
+
+
+HLSProvider/
+desktop_test_app/
+jcodec/
+rtmp_publish/
+tb_utils_lib/
