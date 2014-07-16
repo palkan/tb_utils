@@ -162,7 +162,7 @@ public class RTMPWatch extends EventDispatcher{
 
             _fps = Arrays.average(Arrays.key('fps',_values));
 
-            debug("Stream buffer length: "+_netstream.bufferLength);
+           // debug("Stream buffer length: "+_netstream.bufferLength);
 
         }else
             _counter--;
